@@ -125,7 +125,7 @@ $('#yes').click(function() {
                 text: "Làm ny tớ nha. Đồng ý thì inbox cho tớ nào",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://www.facebook.com/changtraiyeugiay';
+                    window.location = 'https://www.facebook.com/t.wamid';
                   }
             })
         }
